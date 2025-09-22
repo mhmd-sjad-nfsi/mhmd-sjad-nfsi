@@ -12,7 +12,7 @@
 ### Tech Stack
 - **Frontend:** React, Redux, Tailwind CSS, Material Design 3, Bootstrap  
 - **Backend:** Node.js, Express, MongoDB  
-- **Others:** REST APIs, Zarinpal Payment Integration, Git/GitHub  
+- **Others:** REST APIs, Git/GitHub  
 
 ### Courses
 - [Start coding course](https://ahil.app/plan/9o0USnb98O)  
@@ -39,7 +39,7 @@
 ### تکنولوژی‌ها
 - **فرانت‌اند:** React, Redux, Tailwind CSS, Material Design 3 , Bootstrap 
 - **بک‌اند:** Node.js, Express, MongoDB  
-- **سایر موارد:** REST API, درگاه زرین‌پال، Git/GitHub  
+- **سایر موارد:** REST API,  Git/GitHub  
 
 ### دوره‌های آموزشی
 - [دوره Start coding ](https://ahil.app/plan/9o0USnb98O)  
